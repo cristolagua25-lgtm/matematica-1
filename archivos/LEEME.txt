@@ -1,0 +1,7 @@
+Aquí están los PDF del portafolio, en carpetas: materia, evaluaciones, tareas, apes, ekos, consultas y lecturas.
+Para agregar otro archivo: cópialo aquí y suma una línea a la lista ARCHIVOS al inicio del script de index.html
+(en: apartado/parcial/espacio, archivo, nota). Si no pones nota, la página muestra "Sin nota".
+
+Vistas previas: las miniaturas (primera página de cada PDF) ya vienen incrustadas en index.html, no necesitas ninguna carpeta extra.
+Si agregas un PDF nuevo, la página muestra la etiqueta PDF; para darle miniatura, guarda un .jpg con la misma ruta dentro de archivos/previews/
+(por ejemplo archivos/previews/tareas/tarea-semana-15.jpg).
